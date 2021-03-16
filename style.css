@@ -1,0 +1,21 @@
+body{
+	background-color: rgb(99, 95, 95);
+}
+.wrapper{
+	width: 700px;
+	margin: 0 auto;
+}
+
+.first { 
+color:#00BFFF;
+ }
+.second {
+background-color:Red;
+}
+.third {
+background-color:#FF00FF;
+}
+.fourth {
+background-color:#00FFFF;
+}
+
